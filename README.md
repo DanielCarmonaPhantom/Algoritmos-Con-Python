@@ -19,3 +19,5 @@ Al ir moviendo el elemento más grande a la derecha, esto hara que al final qued
 Como notaras, este arreglo se repite muchas veces hasta que al final ya tenemos el arreglo ordenado de menor a mayor.
 
 Esto quiere decir en terminos de programación que haras un ciclo que pase por todos los elementos y luego otro ciclo que sera el que evalue el elemento de la izquierda y derecha y este pase por todos los elementos donde **no** esta el mayor al final.
+
+<img src='BubbleSort.png'>
