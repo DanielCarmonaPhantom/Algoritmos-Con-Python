@@ -12,7 +12,7 @@ Contenido:
 
 ## Bubble Sort
 
-Es el primer algoritmo de ordenamiento que estaremos viendo, ya que este nos da inicio a la forma en que se mejoraron los demas algortimos. 
+Es el primer algoritmo de ordenamiento que estaremos viendo, ya que este nos da inicio a la forma en que se mejoraron los demas.
 
 Lo que hace es que recorre todo el arreglo evaluando si el elemento de lado izquierdo es mayor al elemento del lado derecho y así hasta llegar a los 2 ultimos elementos.
 
