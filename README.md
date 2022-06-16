@@ -10,7 +10,7 @@ Contenido:
 
 
 
-## Bubble Sort
+## 1. Bubble Sort
 
 Es el primer algoritmo de ordenamiento que estaremos viendo, ya que este nos da inicio a la forma en que se mejoraron los demás.
 
