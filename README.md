@@ -26,3 +26,4 @@ Esto quiere decir en términos de programación que harás un ciclo que pase por
 
 
 <img src='src/img/BubbleSort.png'>
+<img src='src/img/BubbleSort2.png'>
