@@ -32,4 +32,4 @@ Ejercicio 1
 Ejemplo
 <img src='src/img/BubbleSort2.png'>
 
-Siguiente algoritmo
+## 2. Quick Sort
